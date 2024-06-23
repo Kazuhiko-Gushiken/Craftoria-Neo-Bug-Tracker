@@ -45,6 +45,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
 - [x] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around ([crash log](https://mclo.gs/oL7u5x5)) - `index 6 out of bounds for length 6`) ([Issue reported](https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/7959) to AE2 tracker)
 - [x] Pipez pipes do not drop when broken ([Issue reported](https://github.com/henkelmax/pipez/issues/226))
+- [ ] Visual bug: Result of pattern encoding on a Pattern Encoding Terminal does not appear if a valid pattern exists in the grid upon world load. Removing an item from the pattern and readding it, or actually encoding the pattern causes the output to appear.
 
 
 # *FIXED BUGS*

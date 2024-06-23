@@ -32,7 +32,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Wearing the Mekanism Scuba Mask makes your head disappear, both in the world and in viewing your inventory.
 - [ ] Building Gadgets' Copy-Paste Tool does not adapt its copied blocks to changes from the copied subject's original position.
 - [ ] Sharestones are a bit borked. Trying to interact with one after placing them forces you out of your world.
-- [ ] Approaching a structure (only tested a villager) causes a client/server desync and forces you to end task to close the game. (<https://mclo.gs/bNaLuhk>) Supposedly a long tick was detected, but no crash.
+- [ ] An entity spawning with a passenger and triggering a sculk sensor ([explanation]([url](https://discord.com/channels/570630340075454474/1252708934729470094/1254251928532029451))) causes a client/server desync and forces you to end task to close the game. (<https://mclo.gs/bNaLuhk>) Supposedly a long tick was detected, but no crash.
 - [ ] Upgraded the Oven from Cooking for Blockheads with a Heating Unit in order to take in RF instead of coal. It cannot connect to any power cable nor direct contact with power storage blocks.
 - [ ] There is a lack of utensils for Cooking for Blockheads in JEI and creative menu.
 - [ ] Toaster does not toast toast. Adding to that, there doesn't seem to be any food recipes.
@@ -42,8 +42,10 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Portable Crafting Table can randomly become "wonky"
 - [ ] Armor Bar doesn't hide when the HUD is disabled (Ex: F1)
 - [ ] Armor hud is squished for half armor and no armor pips
-- [ ] Sometimes crafting with the portable crafting table eats items. I experienced it trying to craft the pipez wrench via REI.
-
+- [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
+- [ ] Hammers from Just Hammers uncraftable due to missing recipes (fixed by mod author in next release)
+- [ ] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around
+- [ ] Pipez pipes do not drop when broken
 
 
 # *FIXED BUGS*

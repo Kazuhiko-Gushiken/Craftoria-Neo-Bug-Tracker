@@ -1,15 +1,22 @@
 # Craftoria-Neo-Bug-Tracker
+Want to help? Fantastic!
+Helping find and report bugs will help both _Craftoria_ and the nacsent ecosystem of NeoForge mods for MC 1.21.
 
-Do you wish to help us? You won't be just helping in the production of Craftoria, but also in the development and bug tracking of all the mods freshly ported to 1.21 Neoforge.
+The goal is to report bugs to the relevant mods' issue trackers.
+This list is meant for:
+1. Collaboratively listing found bugs
+2. Noting their status as being reported or not yet.
 
-Different scenarios and what to do:
-- If you have a new bug, make a PR and add it to the list. Any evidence for it would be nice, supplying a link to the github assets link next to the bug bullet point. With each bug, right after the `-` add `[ ]`. This will create a check mark box. The box is to mark if the bug has been reported or not. 
-- If you reported a bug, make a PR to mark the box of the bug with an `x`, making it `[x]`, along with the link to the bug report on the mod's repository at the end of the line.
-- If you noticed a bug has been fixed, make a PR to move the enitre line (box and all) to the "Fixed Bugs" category, along with the link to the bug fix on the mod's repository at the end of the line.
+An new, un-reported bug should be formatted like so: `- [ ] my new hot bug`.
+It will  look like this:
+- [ ] my new hot bug
 
-Preferably, all of these links should be masked by using the following format: `[Report](url)` and `[Fix](url)`.
+To check-off a bug as reported, fill in an "X" in the box, like so: `- [x] my new hot bug`
+- [x] my new hot bug
 
-The "Fixed Bugs" category is to display the hard work and effort the community has put in to refine mods even further!
+It may be best to add a link to reported issues, using the format: `[Issue #](url)`.
+
+If you noticed a bug has been fixed, feel free to move it's line down to the "Fixed Bugs" section. That section will be our little testament to the hard work and effort the community has put in to bug-hunting and supporting the mods we love to play.
 
 # Craftoria/Mod Bugs
 

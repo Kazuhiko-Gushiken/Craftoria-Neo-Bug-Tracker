@@ -41,7 +41,6 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] After using the base Portal Gun for a bit, it will eventually crash my game and close my client. Attempting to reenter the world crashes the game again. I think it might be because I was shooting portals near or into each other.
 - [ ] Portable Crafting Table can randomly become "wonky"
 - [ ] Armor Bar doesn't hide when the HUD is disabled (Ex: F1)
-- [ ] Armor hud is squished for half armor and no armor pips
 - [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
 - [x] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around ([crash log](https://mclo.gs/oL7u5x5)) - `index 6 out of bounds for length 6`) ([Issue reported](https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/7959) to AE2 tracker)
 - [x] Pipez pipes do not drop when broken ([Issue reported](https://github.com/henkelmax/pipez/issues/226))
@@ -56,4 +55,4 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [x] Shoving a villager into the Auto Trader from the Easy Villagers mod causes a crash and closes the client.
 - [x] Hammers from Just Hammers uncraftable due to missing recipes (fixed by mod author in next release)
 - [x] The Pipe Wrench from the Pipez mod is unable to configure the mod's pipes in any way. Other wrenches are able to configure the pipes, however. (fixed by mod author in next release)
-
+- [x] Armor hud is squished for half armor and no armor pips

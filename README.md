@@ -28,7 +28,6 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Enabling cheating items into the hotbar with shift+num key doesn't work either.
 - [ ] Changed keybinds revert to default when relaunching the game.
 - [ ] Crafting an item, in this case a wrench, in an ME system causes a Network Protocol Error and boots me out.
-- [ ] Filling a crafting pattern in an ME Pattern Encoder Terminal caused a Network Protocol Error and boots me out also. Notably it takes me back to the multiplayer server list even though I was on singleplayer. Happened when I had a half stack of copper ingots on my cursor and right clicked an empty spot in the pattern.
 - [ ] Wearing the Mekanism Scuba Mask makes your head disappear, both in the world and in viewing your inventory.
 - [ ] Building Gadgets' Copy-Paste Tool does not adapt its copied blocks to changes from the copied subject's original position.
 - [ ] Sharestones are a bit borked. Trying to interact with one after placing them forces you out of your world.
@@ -56,3 +55,4 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [x] Armor hud is squished for half armor and no armor pips
 - [x] Pipez pipes do not drop when broken ([Issue reported](https://github.com/henkelmax/pipez/issues/226))
 - [x] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around ([crash log](https://mclo.gs/oL7u5x5)) - `index 6 out of bounds for length 6`) ([Issue reported](https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/7959) to AE2 tracker)
+- [x] Filling a crafting pattern in an ME Pattern Encoder Terminal caused a Network Protocol Error and boots me out also. Notably it takes me back to the multiplayer server list even though I was on singleplayer. Happened when I had a half stack of copper ingots on my cursor and right clicked an empty spot in the pattern. (This is the same error as the above, but presented differently - should also be fixed by the fix that fixes that ☝️)

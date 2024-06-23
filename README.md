@@ -27,7 +27,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] So relaunching the game shows the changes. However, JEI still does not give me items. Changing the settings from mouse pickup to sending the selected items to inventory did not give the desired result, or any result for that matter.
 - [ ] Enabling cheating items into the hotbar with shift+num key doesn't work either.
 - [ ] Changed keybinds revert to default when relaunching the game.
-- [ ] Crafting an item, in this case a wrench, in an ME system causes a Network Protocol Error and boots me out.
+- [ ] Crafting an item, in this case a wrench, in an ME system causes a Network Protocol Error and boots me out. ([Issue reported](https://github.com/AppliedEnergistics/Applied-Energistics-2/issues/7959) to AE2 tracker)
 - [ ] Filling a crafting pattern in an ME Pattern Encoder Terminal caused a Network Protocol Error and boots me out also. Notably it takes me back to the multiplayer server list even though I was on singleplayer. Happened when I had a half stack of copper ingots on my cursor and right clicked an empty spot in the pattern.
 - [ ] The Pipe Wrench from the Pipez mod is unable to configure the mod's pipes in any way. Other wrenches are able to configure the pipes, however.
 - [ ] Wearing the Mekanism Scuba Mask makes your head disappear, both in the world and in viewing your inventory.

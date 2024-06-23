@@ -28,6 +28,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Enabling cheating items into the hotbar with shift+num key doesn't work either.
 - [ ] Changed keybinds revert to default when relaunching the game.
 - [ ] Crafting an item, in this case a wrench, in an ME system causes a Network Protocol Error and boots me out.
+- [ ] Filling a crafting pattern in an ME Pattern Encoder Terminal caused a Network Protocol Error and boots me out also. Notably it takes me back to the multiplayer server list even though I was on singleplayer. Happened when I had a half stack of copper ingots on my cursor and right clicked an empty spot in the pattern.
 - [ ] The Pipe Wrench from the Pipez mod is unable to configure the mod's pipes in any way. Other wrenches are able to configure the pipes, however.
 - [ ] Wearing the Mekanism Scuba Mask makes your head disappear, both in the world and in viewing your inventory.
 - [ ] Building Gadgets' Copy-Paste Tool does not adapt its copied blocks to changes from the copied subject's original position.
@@ -43,7 +44,6 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Armor Bar doesn't hide when the HUD is disabled (Ex: F1)
 - [ ] Armor hud is squished for half armor and no armor pips
 - [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
-- [ ] Hammers from Just Hammers uncraftable due to missing recipes (fixed by mod author in next release)
 - [ ] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around
 - [ ] Pipez pipes do not drop when broken
 
@@ -54,3 +54,4 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [x] Trim on Tools causes other Trims to not load tooltips.
 - [x] AE2 Spatial Anchor Loaded Chunk Visualization Bug
 - [x] Shoving a villager into the Auto Trader from the Easy Villagers mod causes a crash and closes the client.
+- [x] Hammers from Just Hammers uncraftable due to missing recipes (fixed by mod author in next release)

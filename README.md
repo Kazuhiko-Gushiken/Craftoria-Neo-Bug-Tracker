@@ -10,7 +10,7 @@ Different scenarios and what to do:
 Preferably, all of these links should be masked by using the following format: `[Report](url)` and `[Fix](url)`.
 # Craftoria/Mod Bugs
 
-- [ ] [ ] Creative Mode search item tab returns no results.
+- [ ] Creative Mode search item tab returns no results.
 - [ ] [ ] Creative Mode search item tab conflicts with JEI search bar. Even if I click on the JEI search bar, characters are typed onto the Search Item tab's search bar.
 - [ ] [ ] Mekanizm and Mekanizm Generators tabs have search bars in them as well and those function fine; odd that the main vanilla search bar does not.
 - [ ] [ ] JEI suggested to install Configured to change JEI settings with a GUI. Despite saving my changes in Cheat Mode to turn on "Enable Cheat Mode for Give", leaving and re-entering the GUI shows that change being reverted to default.
@@ -47,3 +47,8 @@ Preferably, all of these links should be masked by using the following format: `
 
 - [ ] test
 - [x] a done test
+
+
+- SUPER DUPER BAD BUG
+  - [x] Reported
+  - [ ] Fixed

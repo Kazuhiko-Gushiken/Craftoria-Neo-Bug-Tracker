@@ -1,7 +1,13 @@
 # Craftoria-Neo-Bug-Tracker
 
+Do you wish to help us? You won't be just helping in the production of Craftoria, but also in the development and bug tracking of all the mods freshly ported to 1.21 Neoforge.
+
+Different scenarios and what to do:
+- If you have a new bug, make a PR and add it to the list. Any evidence for it would be nice, supplying a link to the github assets link next to the bug bullet point.
+- If you reported a bug, make a PR to add `(Reported)` at the beginning of the bullet (after the bullet point) along with the link to the bug report on the mod's repository.
+- If you noticed a bug has been fixed, copy the entire line of the bug to the "Fixed Bug" section, removing the `(Reported)` tag on it.
+
 # Craftoria/Mod Bugs
-### As of 6-21-2024
 
 - Creative Mode search item tab returns no results.
 - Creative Mode search item tab conflicts with JEI search bar. Even if I click on the JEI search bar, characters are typed onto the Search Item tab's search bar.
@@ -27,7 +33,9 @@
 - Armor hud is squished for half armor and no armor pips
 - Sometimes crafting with the portable crafting table eats items. I experienced it trying to craft the pipez wrench via REI.
 
-***FIXED BUGS***
+
+
+# *FIXED BUGS*
 - Upon trying to view a multiblock hologram of a Modern Industrialization machine by holding a Wrench, it shows a runaway hologram whose movements correspond with the player movements but with different axis. ASDW is forward, backward, left, right respectively when walking. If player moves in the are, the movements of the hologram are inverted.
 - JEI using the wrong screen GUI for Anvil Recipes
 - Trim on Tools causes other Trims to not load tooltips.

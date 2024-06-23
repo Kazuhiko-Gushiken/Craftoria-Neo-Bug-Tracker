@@ -44,7 +44,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Armor Bar doesn't hide when the HUD is disabled (Ex: F1)
 - [ ] Armor hud is squished for half armor and no armor pips
 - [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
-- [ ] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around ([Crash Log]([url](https://mclo.gs/oL7u5x5)) - `index 6 out of bounds for length 6`)
+- [ ] Random crashes when moving items around in the crafting grid of an ME Crafting Terminal. I experienced it when crafting a barrel and moving the slabs/planks around ([crash log](https://mclo.gs/oL7u5x5)) - `index 6 out of bounds for length 6`)
 - [ ] Pipez pipes do not drop when broken
 
 

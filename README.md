@@ -28,7 +28,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Enabling cheating items into the hotbar with shift+num key doesn't work either.
 - [ ] Changed keybinds revert to default when relaunching the game.
 - [ ] Crafting an item, in this case a wrench, in an ME system causes a Network Protocol Error and boots me out.
-- [ ] Wearing the Mekanism Scuba Mask makes your head disappear, both in the world and in viewing your inventory.
+- [x] Wearing the Mekanism Scuba Mask makes your head disappear, both in the world and in viewing your inventory. [Reported](https://github.com/mekanism/Mekanism/issues/8133)
 - [ ] Building Gadgets' Copy-Paste Tool does not adapt its copied blocks to changes from the copied subject's original position.
 - [ ] Sharestones are a bit borked. Trying to interact with one after placing them forces you out of your world.
 - [ ] An entity spawning with a passenger and triggering a sculk sensor ([explanation]([url](https://discord.com/channels/570630340075454474/1252708934729470094/1254251928532029451))) causes a client/server desync and forces you to end task to close the game. (<https://mclo.gs/bNaLuhk>) Supposedly a long tick was detected, but no crash.

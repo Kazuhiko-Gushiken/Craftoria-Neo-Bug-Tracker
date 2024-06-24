@@ -43,7 +43,8 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
 - [ ] Visual bug: Result of pattern encoding on a Pattern Encoding Terminal does not appear if a valid pattern exists in the grid upon world load. Removing an item from the pattern and readding it, or actually encoding the pattern causes the output to appear.
 - [ ] In EMI tree, the crafting block if it's Mekanism, is invisisble. [Evidence](https://github.com/Kazuhiko-Gushiken/Craftoria-Neo-Bug-Tracker/assets/132615999/4a07b1eb-8293-4439-97b8-4efd0a32930a)
-
+- [ ] Hammers from Just Hammers cannot be enchanted - not sure if this is intentional. There is an [open issue](https://github.com/nanite/JustHammers/issues/29) on their tracker from 3 days ago with no response.
+- [x] Researching Table from Relics mod has no valid recipe. [Reported](https://github.com/SSKirillSS/relics/issues/145)
 
 
 # *FIXED BUGS*

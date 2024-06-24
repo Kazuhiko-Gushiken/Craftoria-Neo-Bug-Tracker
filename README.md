@@ -42,7 +42,8 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Armor Bar doesn't hide when the HUD is disabled (Ex: F1)
 - [ ] Sometimes crafting table eats my items while crafting. I experienced it trying to craft the pipez wrench via REI, and separately when using some of the crafting shortcuts (like dragging items in the crafting grid). Happened with Crafting Table on a Stick and regular Crafting Table.
 - [ ] Visual bug: Result of pattern encoding on a Pattern Encoding Terminal does not appear if a valid pattern exists in the grid upon world load. Removing an item from the pattern and readding it, or actually encoding the pattern causes the output to appear.
-- [ ] In EMI tree, the crafting block if it's Mekanism, is invisisble. ![image](https://github.com/Kazuhiko-Gushiken/Craftoria-Neo-Bug-Tracker/assets/132615999/4a07b1eb-8293-4439-97b8-4efd0a32930a)
+- [ ] In EMI tree, the crafting block if it's Mekanism, is invisisble. [Evidence](https://github.com/Kazuhiko-Gushiken/Craftoria-Neo-Bug-Tracker/assets/132615999/4a07b1eb-8293-4439-97b8-4efd0a32930a)
+- [ ] When transferring a lot of items at once using LaserIO, if the nodes are within render distance, paricles from block breaking are sped up. [Evidence](https://www.youtube.com/live/ByqyUY4QXQ0?si=eTgDALVCibXfoaPW&t=17101)
 
 
 

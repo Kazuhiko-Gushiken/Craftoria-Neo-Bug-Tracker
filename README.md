@@ -46,6 +46,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Hammers from Just Hammers cannot be enchanted - not sure if this is intentional. There is an [open issue](https://github.com/nanite/JustHammers/issues/29) on their tracker from 3 days ago with no response.
 - [ ] Theurgy Ores have a weird emission on them. [Evidence](https://github.com/Kazuhiko-Gushiken/Craftoria-Neo-Bug-Tracker/assets/132615999/e52a972c-872d-42b8-9f5e-a1317056b3f9)
 - [ ] Farming for Blockheads Market does not have a drop table
+- [ ] ME Components (Annihilation Planes only?) disappear for some reason. At least two reports of them vanishing on Craftoria EU server.
 
 
 

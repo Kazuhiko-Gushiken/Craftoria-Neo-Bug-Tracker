@@ -50,7 +50,7 @@ If you noticed a bug has been fixed, feel free to move it's line down to the "Fi
 - [ ] Sponge Module removes all fluids save for water source blocks with kelp or seagrass in them.
 - [ ] Biometric Identifier was some weird text overlap. Clicking on a toggle will make their description persist on your screen until you select another toggle, at which point the description still persists but changes to the description of what you just toggled.
 - [x] As of 0.0.9, Mining Gadgets crash the game and close the client when they are used. [Open Issue: https://github.com/Direwolf20-MC/MiningGadgets/issues/251]
-- [ ] Travelling through Nether Portals crashes the game. I tested dimensional travel with Waystones and those worked fine.
+- [ ] As of 0.0.9, Travelling through Nether Portals and End Portals crashes the game. I tested dimensional travel with Waystones and those worked fine.
 
 
 # *FIXED BUGS*
